@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 änderung
+=======
+Hugo Egoan blablabla
+>>>>>>> 815fe9b27622e358f77407ea019f11dee1ff40e3
 =======
 Hugo Egoan blablabla
 >>>>>>> 815fe9b27622e358f77407ea019f11dee1ff40e3
